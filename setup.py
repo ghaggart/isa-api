@@ -83,7 +83,7 @@ setup(
         'lxml~=4.9.1',
         'requests>=2.25.1',
         'iso8601~=0.1.14',
-        'chardet~=4.0.0',
+        'chardet>=4.0.0',
         'jinja2>=3.0.1',
         'beautifulsoup4~=4.9.3',
         'mzml2isa==1.1.1',
